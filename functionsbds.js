@@ -52,7 +52,7 @@ var INSPIRO = {},
         $halfScreen = $('.halfscreen'), //Slider
         $slider = $('#slider'),
         $carousel = $('.carousel'),
-        $carouselIcons = ['<img src="./upload/Vector Smart Object3 copy 13.png">', '<img src="./upload/Vector Smart Object3 copy 12.png">'],
+        $carouselIcons = ['<img src="https://1.bp.blogspot.com/-cU-0HGO1GOk/X02ynEtC5jI/AAAAAAAAJvI/3bgTZ1wu5T4jJqILF8cUzGu4pIRwzEQmQCLcBGAsYHQ/s1600/pre.png">', '<img src="https://1.bp.blogspot.com/-fjzKwn6YwaQ/X02ynGD_cxI/AAAAAAAAJvM/CD7a28RiCpY1cN9KOFPhv7i_BcXBoWxBACLcBGAsYHQ/s1600/next.png">'],
 
         $flickity = $('.carousell'),
         $equalize = $('.equalize'),
