@@ -1,0 +1,17 @@
+<svg class="icon" enable-background="new 0 0 64 64" fill="none" height="23" viewBox="0 0 30 27" width="26" xmlns="http://www.w3.org/2000/svg">
+			<g filter="url(#filter0_f)">
+			<ellipse cx="13.5" cy="21.5" fill="#C4C4C4" rx="9.5" ry="1.5"/>
+			</g>
+			<path d="M4.3 11C4.1 10.8 4 10.5 4 10.3C4 10.1 4.1 9.8 4.3 9.6L5.7 8.2C6.1 7.8 6.7 7.8 7.1 8.2L7.2 8.3L12.7 14.2C12.9 14.4 13.2 14.4 13.4 14.2L26.8 0.3H26.9C27.3 -0.1 27.9 -0.1 28.3 0.3L29.7 1.7C30.1 2.1 30.1 2.7 29.7 3.1L13.7 19.7C13.5 19.9 13.3 20 13 20C12.7 20 12.5 19.9 12.3 19.7L4.5 11.3L4.3 11Z" fill="url(#paint0_linear)"/>
+			<defs>
+			<filter color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse" height="11" id="filter0_f" width="27" x="0" y="16">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feBlend in="SourceGraphic" in2="BackgroundImageFix" mode="normal" result="shape"/>
+			<feGaussianBlur result="effect1_foregroundBlur" stdDeviation="2"/>
+			</filter>
+			<linearGradient gradientUnits="userSpaceOnUse" id="paint0_linear" x1="4" x2="23.6675" y1="10.137" y2="21.5509">
+			<stop stop-color="#0089AD"/>
+			<stop offset="1" stop-color="#00BCAC" stop-opacity="0.982"/>
+			</linearGradient>
+			</defs>
+			</svg>
